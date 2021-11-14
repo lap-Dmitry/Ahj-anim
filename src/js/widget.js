@@ -13,7 +13,6 @@ export default class Widget {
           craft beer labore wes anderson cred nesciunt sapiente ea proident.
         </div>
       </div>
-      <div class="copy">Copy</div>
     `;
 
     this.container.insertAdjacentElement('beforeend', cont);
